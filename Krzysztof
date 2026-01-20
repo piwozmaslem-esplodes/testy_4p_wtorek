@@ -1,1 +1,199 @@
+1. Które środowisko programistyczne jest wykorzystywane do tworzenia aplikacji desktopowych w języku C#?
 
+A. Android Studio
+B. Visual Studio
+C. phpMyAdmin
+D. PyCharm
+
+Poprawna odpowiedź: B
+Wyjaśnienie: Visual Studio to popularne IDE do aplikacji desktopowych w C#.
+
+2. Jakiego języka można używać do tworzenia aplikacji Android w Android Studio?
+
+A. PHP
+B. Python
+C. Java
+D. Pascal
+
+Poprawna odpowiedź: C
+Wyjaśnienie: Java jest jednym z podstawowych języków Androida.
+
+3. Który element layoutu pozwala na ułożenie elementów jeden pod drugim?
+
+A. FrameLayout
+B. RelativeLayout
+C. LinearLayout
+D. ConstraintLayout
+
+Poprawna odpowiedź: C
+Wyjaśnienie: LinearLayout umożliwia układ pionowy lub poziomy.
+
+4. Czym jest framework w programowaniu aplikacji desktopowych?
+
+A. Systemem operacyjnym
+B. Zbiorem gotowych bibliotek i narzędzi
+C. Edytorem kodu
+D. Językiem programowania
+
+Poprawna odpowiedź: B
+Wyjaśnienie: Framework dostarcza gotowe rozwiązania ułatwiające tworzenie aplikacji.
+
+5. Która metoda jest wywoływana przy starcie aktywności Android?
+
+A. onStop()
+B. onDestroy()
+C. onCreate()
+D. onPause()
+
+Poprawna odpowiedź: C
+Wyjaśnienie: onCreate() uruchamia się podczas tworzenia aktywności.
+
+6. Jak nazywa się wirtualne urządzenie testowe w Android Studio?
+
+A. SDK
+B. Emulator
+C. APK
+D. Gradle
+
+Poprawna odpowiedź: B
+Wyjaśnienie: Emulator pozwala testować aplikację bez fizycznego urządzenia.
+
+7. Która struktura danych w Pythonie przechowuje uporządkowaną kolekcję elementów i pozwala na ich modyfikację?
+
+A. tuple
+B. set
+C. list
+D. dict
+
+Poprawna odpowiedź: C
+Wyjaśnienie: Lista (list) w Pythonie jest uporządkowana i modyfikowalna.
+
+8. Jak w Javie obsłużyć kliknięcie przycisku w aplikacji Android?
+
+A. setOnClickListener
+B. addClick()
+C. onButtonClick()
+D. setClick()
+
+Poprawna odpowiedź: A
+Wyjaśnienie: setOnClickListener obsługuje zdarzenie kliknięcia.
+
+9. Co oznacza skrót APK?
+
+A. Android Phone Kernel
+B. Application Package
+C. Android Program Kit
+D. Application Phone Kit
+
+Poprawna odpowiedź: B
+Wyjaśnienie: APK to pakiet instalacyjny aplikacji Android.
+
+10. Który element służy do wprowadzania tekstu przez użytkownika?
+
+A. TextView
+B. Button
+C. EditText
+D. ImageView
+
+Poprawna odpowiedź: C
+Wyjaśnienie: EditText umożliwia wpisywanie danych.
+
+11. Która kolekcja w języku C# pozwala na przechowywanie elementów w postaci listy o dynamicznym rozmiarze?
+
+A. Array
+B. List<T>
+C. Stack
+D. Queue
+
+Poprawna odpowiedź: B
+Wyjaśnienie: List<T> to dynamiczna lista w C#.
+
+12. Która metoda zamyka aktywność w Androidzie?
+
+A. close()
+B. stop()
+C. finish()
+D. destroy()
+
+Poprawna odpowiedź: C
+Wyjaśnienie: finish() kończy bieżącą aktywność.
+
+13. Do czego służy TextView?
+
+A. Wprowadzanie tekstu
+B. Wyświetlanie tekstu
+C. Wyświetlanie obrazów
+D. Odtwarzanie dźwięku
+
+Poprawna odpowiedź: B
+Wyjaśnienie: TextView służy do wyświetlania tekstu.
+
+14. Który katalog zawiera pliki graficzne aplikacji Android?
+
+A. res/layout
+B. res/drawable
+C. res/values
+D. res/raw
+
+Poprawna odpowiedź: B
+Wyjaśnienie: drawable zawiera grafiki aplikacji.
+
+15. Który język służy do projektowania interfejsu użytkownika w aplikacjach WPF?
+
+A. HTML
+B. CSS
+C. XAML
+D. XML
+
+Poprawna odpowiedź: C
+Wyjaśnienie: XAML służy do opisu interfejsu w WPF.
+
+16. Który element Android służy do wyświetlania obrazów?
+
+A. ImageView
+B. TextView
+C. EditText
+D. Button
+
+Poprawna odpowiedź: A
+Wyjaśnienie: ImageView wyświetla obrazy.
+
+17. Jak nazywa się domyślna główna aktywność aplikacji Android?
+
+A. FirstActivity
+B. StartActivity
+C. MainActivity
+D. HomeActivity
+
+Poprawna odpowiedź: C
+Wyjaśnienie: Domyślną aktywnością jest MainActivity.
+
+18. Który katalog zawiera kolory i style aplikacji Android?
+
+A. res/layout
+B. res/drawable
+C. res/values
+D. res/mipmap
+
+Poprawna odpowiedź: C
+Wyjaśnienie: res/values zawiera style i kolory.
+
+19. Do czego służy Toast w aplikacji Android?
+
+A. Do zapisywania danych
+B. Do wyświetlania krótkiego komunikatu
+C. Do zmiany layoutu
+D. Do obsługi bazy danych
+
+Poprawna odpowiedź: B
+Wyjaśnienie: Toast wyświetla krótki komunikat.
+
+20. Która biblioteka w C++ służy do przechowywania dynamicznych tablic (wektorów)?
+
+A. <map>
+B. <list>
+C. <vector>
+D. <set>
+
+Poprawna odpowiedź: C
+Wyjaśnienie: <vector> umożliwia przechowywanie dynamicznych tablic w C++.
